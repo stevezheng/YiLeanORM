@@ -1,0 +1,22 @@
+{
+  "name": "yi-lean-orm",
+  "version": "1.0.0",
+  "description": "leancloud orm for stevezheng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevezheng/YiLeanORM.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "stevezheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevezheng/YiLeanORM/issues"
+  },
+  "homepage": "https://github.com/stevezheng/YiLeanORM"
+}
