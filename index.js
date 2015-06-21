@@ -1,3 +1,5 @@
+var AV = require('leanengine');
+
 var optimizeCb = function (func, context, argCount) {
   if (context === void 0) {
     return func;
@@ -174,7 +176,7 @@ function D(model) {
     },
 
     delete: function () {
-      return q.destroyAll();
+
     },
 
     update: function (data) {
